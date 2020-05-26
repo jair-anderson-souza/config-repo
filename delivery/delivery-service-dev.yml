@@ -4,4 +4,8 @@ spring.datasource.password: postgres
 spring.datasource.driver-class-name: org.postgresql.Driver
 spring.jpa.show-sql: true
 spring.jpa.properties.hibernate.dialect: org.hibernate.dialect.PostgreSQLDialect
+<<<<<<< HEAD
 environment: Dev Environment
+=======
+spring.jpa.hibernate.ddl-auto: update
+>>>>>>> 6243bab5acc721957abd312920d1203759ec547e
