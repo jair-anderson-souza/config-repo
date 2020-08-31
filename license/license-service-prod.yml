@@ -1,4 +1,4 @@
-spring.datasource.url: jdbc:postgresql://localhost:5432/delivery
+spring.datasource.url: jdbc:postgresql://localhost:5432/license
 spring.datasource.username: postgres
 spring.datasource.password: postgres
 spring.datasource.driver-class-name: org.postgresql.Driver
